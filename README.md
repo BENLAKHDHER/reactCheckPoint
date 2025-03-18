@@ -28,7 +28,6 @@ Instructions
 ·        Display an image if the first name is provided.
 
 ·        Be creative as much as possible with your styling!
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # React + Vite
 
